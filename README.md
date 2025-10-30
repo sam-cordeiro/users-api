@@ -129,25 +129,11 @@ try {
 
 ---
 
-## 🧪 Testes (opcional)
-Se houver testes configurados:
-```bash
-npm run test
-```
-
----
-
 ## 👨‍💻 Autor
 
 **Samuel Assis Cordeiro**  
 Desenvolvedor de Software • Estagiário na Direcional Engenharia  
 📍 GitHub: [sam-cordeiro](https://github.com/sam-cordeiro)
-
----
-
-## 📜 Licença
-
-Este projeto está licenciado sob a [MIT License](./LICENSE).
 
 ---
 
